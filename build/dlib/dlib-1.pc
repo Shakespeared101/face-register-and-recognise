@@ -1,0 +1,8 @@
+libdir=/usr/local/lib
+includedir=/usr/local/include
+
+Name: dlib
+Description: Numerical and networking C++ library
+Version: 19.24.99
+Libs: -L${libdir} -ldlib /opt/homebrew/lib/libX11.dylib /opt/homebrew/lib/libXext.dylib /opt/homebrew/lib/libgif.dylib /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/lib/libcblas.tbd /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/lib/liblapack.tbd /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/lib/libsqlite3.tbd /usr/local/Cellar/ffmpeg/6.0/lib/libavdevice.dylib /usr/local/Cellar/ffmpeg/6.0/lib/libavfilter.dylib /usr/local/Cellar/ffmpeg/6.0/lib/libavformat.dylib /usr/local/Cellar/ffmpeg/6.0/lib/libavcodec.dylib /usr/local/Cellar/ffmpeg/6.0/lib/libswresample.dylib /usr/local/Cellar/ffmpeg/6.0/lib/libswscale.dylib /usr/local/Cellar/ffmpeg/6.0/lib/libavutil.dylib
+Cflags: -I${includedir}  -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include

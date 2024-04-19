@@ -1,0 +1,362 @@
+[
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/base64/base64_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/base64/base64_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bigint/bigint_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bigint/bigint_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bigint/bigint_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bigint/bigint_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bit_stream/bit_stream_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bit_stream/bit_stream_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/md5/md5_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/md5/md5_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/tokenizer/tokenizer_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/tokenizer/tokenizer_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/unicode/unicode.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/unicode/unicode.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/unicode/unicode.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/unicode/unicode.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/test_for_odr_violations.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/test_for_odr_violations.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/fft/fft.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/fft/fft.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/fft/fft.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/fft/fft.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockets/sockets_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockets/sockets_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/bsp/bsp.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bsp/bsp.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/bsp/bsp.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/bsp/bsp.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/dir_nav/dir_nav_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/dir_nav/dir_nav_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/dir_nav/dir_nav_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/dir_nav/dir_nav_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/dir_nav/dir_nav_extensions.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/dir_nav/dir_nav_extensions.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/fonts.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/fonts.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/linker/linker_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/linker/linker_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/logger/extra_logger_headers.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/logger/extra_logger_headers.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/logger/logger_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/logger/logger_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/logger/logger_config_file.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/logger/logger_config_file.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/misc_api/misc_api_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/misc_api/misc_api_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/misc_api/misc_api_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/misc_api/misc_api_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockets/sockets_extensions.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockets/sockets_extensions.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockets/sockets_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockets/sockets_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockstreambuf/sockstreambuf.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockstreambuf/sockstreambuf.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/server/server_kernel.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/server/server_kernel.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/server/server_kernel.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/server/server_kernel.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/server/server_iostream.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/server/server_iostream.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/server/server_iostream.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/server/server_iostream.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/server/server_http.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/server/server_http.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/server/server_http.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/server/server_http.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/multithreaded_object_extension.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/multithreaded_object_extension.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threaded_object_extension.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threaded_object_extension.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threads_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threads_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threads_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threads_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threads_kernel_shared.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/threads_kernel_shared.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/thread_pool_extension.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/thread_pool_extension.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/threads/async.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/async.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/threads/async.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/threads/async.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/timer/timer.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/timer/timer.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/timer/timer.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/timer/timer.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/stack_trace.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/stack_trace.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/stack_trace.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/stack_trace.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/cuda/cpu_dlib.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/cuda/cpu_dlib.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/cuda/tensor_tools.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/cuda/tensor_tools.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/data_io/image_dataset_metadata.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/data_io/image_dataset_metadata.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/data_io/mnist.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/data_io/mnist.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/data_io/mnist.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/data_io/mnist.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/data_io/cifar.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/data_io/cifar.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/data_io/cifar.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/data_io/cifar.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/global_optimization/global_function_search.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/global_optimization/global_function_search.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/filtering/kalman_filter.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/filtering/kalman_filter.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/svm/auto.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/svm/auto.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/svm/auto.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/svm/auto.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/widgets.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/widgets.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/drawable.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/drawable.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/canvas_drawing.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/canvas_drawing.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/style.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/style.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/base_widgets.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_widgets/base_widgets.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_core/gui_core_kernel_1.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_core/gui_core_kernel_1.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_core/gui_core_kernel_2.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/gui_core/gui_core_kernel_2.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_loader/png_loader.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_loader/png_loader.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_saver/save_png.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_saver/save_png.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_loader/jpeg_loader.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_loader/jpeg_loader.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o"
+},
+{
+  "directory": "/Users/shakthibala/Desktop/BeauRoi/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/ffmpeg/6.0/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/usr/local/Cellar/ffmpeg/6.0/include -DDLIB_DISABLE_ASSERTS -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DDLIB_GIF_SUPPORT -DDLIB_USE_FFMPEG -DLAPACK_FORCE_UNDERSCORE -DDLIB__CMAKE_GENERATED_A_CONFIG_H_FILE -DDLIB_CHECK_FOR_VERSION_MISMATCH=DLIB_VERSION_MISMATCH_CHECK__EXPECTED_VERSION_19_24_99 -o dlib/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o -c /Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_saver/save_jpeg.cpp",
+  "file": "/Users/shakthibala/Desktop/BeauRoi/dlib/dlib/image_saver/save_jpeg.cpp",
+  "output": "dlib/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o"
+}
+]

@@ -1,0 +1,17 @@
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/package.dir
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/package_source.dir
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/edit_cache.dir
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/rebuild_cache.dir
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/list_install_components.dir
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/install.dir
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/install/local.dir
+/Users/shakthibala/Desktop/BeauRoi/build/CMakeFiles/install/strip.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/dlib.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/package.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/package_source.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/edit_cache.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/rebuild_cache.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/list_install_components.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/install.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/install/local.dir
+/Users/shakthibala/Desktop/BeauRoi/build/dlib/CMakeFiles/install/strip.dir
