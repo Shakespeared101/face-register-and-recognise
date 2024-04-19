@@ -15,11 +15,51 @@ OpenCV
 Face Recognition Library
 Streamlit
 
-**How to Use:**
-Clone the repository to your local machine.
-Install the required dependencies using the provided requirements.txt.
-Run the Streamlit application using streamlit run StreamVidFace.py.
-Follow the on-screen instructions to register faces or start the face recognition process.
+However, please note that the required `dlib` library is not included in the repository due to its size and build dependencies.
+
+## Installation Instructions
+
+### 1. Setting up a Virtual Environment (Optional but Recommended)
+It's recommended to use a virtual environment to manage dependencies for this project. You can create a virtual environment using `venv` or `virtualenv`:
+
+```bash
+# Using venv
+python3 -m venv myenv
+source myenv/bin/activate
+
+# Using virtualenv
+virtualenv myenv
+source myenv/bin/activate
+```
+
+### 2. Install dlib
+The `dlib` library is a crucial dependency for this project. You can install it using the following steps:
+
+#### Linux/macOS:
+```bash
+arch -arm64 pip3 install dlib
+```
+
+#### Windows:
+```bash
+pip install dlib
+```
+
+### 3. Install other Dependencies
+Once the virtual environment is activated and `dlib` is installed, you can install the remaining dependencies using the provided `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Running the Application
+After installing the dependencies, you can run the Streamlit application using the following command:
+
+```bash
+streamlit run StreamVidFace.py
+```
+
+Feel free to customize the installation instructions according to your specific requirements or environment setup.
 
 **Contributors:**
 * Shakthi B
