@@ -64,5 +64,6 @@ Feel free to customize the installation instructions according to your specific 
 **Contributors:**
 * Shakthi B
 * Aditya Sai SD
-License:
+  
+**License:**
 This project is licensed under the MIT License.
