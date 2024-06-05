@@ -6,6 +6,7 @@ import os
 import time
 from PIL import Image
 import dlib
+import threading
 
 # Load known faces and encodings
 known_encodings = []
@@ -46,8 +47,12 @@ def recognize_faces(frame):
             label = known_names[matches.index(True)]
             color = (0, 255, 0)  # Green rectangle for a match
             known_face_detected = True
+            with open("flag.txt","w") as f:
+                f.write("0")
         else:
             label = "Unknown"
+            with open("flag.txt","w") as f:
+                f.write("1")
             color = (0, 0, 255)  # Red rectangle for an unknown face
 
         # Draw the rectangle and label on the frame
@@ -86,10 +91,32 @@ def register_face():
     else:
         st.warning("Upload an image to continue")
 
+# Function to capture video for face recognition
+def capture_video(stop_event):
+    while not stop_event.is_set():
+        start_time = time.time()
+        video_capture = cv2.VideoCapture(0)
+
+        while time.time() - start_time < 5:
+            ret, frame = video_capture.read()
+            if ret:
+                frame = recognize_faces(frame)
+                st.image(frame, channels="BGR")
+            if cv2.waitKey(1) & 0xFF == ord('q'):
+                break
+
+        video_capture.release()
+        cv2.destroyAllWindows()
+
+        # Wait for 10 minutes
+        for _ in range(600):
+            if stop_event.is_set():
+                break
+            time.sleep(1)
+
 # Streamlit web application
 def main():
     st.title("Face Recognition System")
-
     # Register face
     register_face()
     if st.button("Open webcam to register face"):
@@ -110,42 +137,28 @@ def main():
         filepath = os.path.join(known_faces_dir, filename)
         cv2.imwrite(filepath, frame)
         st.success("Face registered successfully!")
+    # Create a stop event for the thread
+    stop_event = threading.Event()
+    thread = None
 
+    # Start button
     start_recognition = st.button("Start Webcam and Face Recognition")
-    stop_recognition = st.button("Stop Face Recognition")
 
+    # Start the background thread when the button is clicked
     if start_recognition:
         st.write("Starting face recognition process...")
-        stop_flag = False
+        thread = threading.Thread(target=capture_video, args=(stop_event,))
+        thread.start()
 
-        # Define the stop function
-        def stop():
-            nonlocal stop_flag
-            stop_flag = True
+    # Stop button
+    stop_recognition = st.button("Stop Webcam and Face Recognition")
 
-        # Check if the stop button is clicked
-        if stop_recognition:
-            stop()
-
-        while not stop_flag:
-            video_capture = cv2.VideoCapture(0)
-            start_time = time.time()
-
-            while time.time() - start_time < 5:
-                # Capture frame-by-frame
-                ret, frame = video_capture.read()
-
-                # Recognize faces
-                frame = recognize_faces(frame)
-
-                # Display the resulting frame
-                # st.image(frame, channels="BGR")
-
-            # Release the webcam
-            video_capture.release()
-            cv2.destroyAllWindows()
-            
-            time.sleep(10 * 60)  # Pause for 10 minutes
+    # Stop the background thread when the button is clicked
+    if stop_recognition:
+        stop_event.set()
+        if thread is not None:
+            thread.join()
+        st.write("Face recognition process stopped.")
 
 # Run the application
 if __name__ == "__main__":
