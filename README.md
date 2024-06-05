@@ -56,7 +56,7 @@ pip install -r requirements.txt
 After installing the dependencies, you can run the Streamlit application using the following command:
 
 ```bash
-streamlit run StreamVidFace.py
+streamlit run StreamFace.py
 ```
 
 Feel free to customize the installation instructions according to your specific requirements or environment setup.
